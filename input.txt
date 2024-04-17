@@ -1,0 +1,3 @@
+Hello world, hello Beam.
+Apache Beam using GoLang.
+Beam me up, Scotty! Beam me up, Beam me up!
