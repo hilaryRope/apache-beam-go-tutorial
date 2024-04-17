@@ -10,8 +10,6 @@ If you don't, you can follow the instructions in the
 
 ## Running the pipeline
 
-Running your pipeline in Go is as easy as running the script file directly.
-
 ```sh
 go run main.go
 
